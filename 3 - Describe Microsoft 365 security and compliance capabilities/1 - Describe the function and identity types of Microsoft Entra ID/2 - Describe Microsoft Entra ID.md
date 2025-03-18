@@ -4,7 +4,10 @@
 ### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Important**
 - **Microsoft Entra ID** (formerly Azure Active Directory) is a **cloud-based identity and access management service** by Microsoft.
 - It helps organizations manage **access to internal resources**, **external services**, and enables collaboration across business units.
-[image]!https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/entra-id-general-diagram-v2.png
+ 
+![overview](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/entra-id-general-diagram-v2.png)
+
+!(SecScore)(https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/identity-secure-score-inline.png)
 ---
 
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Key Terms and Definitions**
