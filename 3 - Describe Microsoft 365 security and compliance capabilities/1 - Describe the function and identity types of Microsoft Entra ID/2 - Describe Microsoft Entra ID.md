@@ -7,7 +7,7 @@
  
 ![overview](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/entra-id-general-diagram-v2.png)
 
-!(SecScore)(https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/identity-secure-score-inline.png)
+![SecScore](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/identity-secure-score-inline.png)
 ---
 
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Key Terms and Definitions**
